@@ -2,7 +2,7 @@
 This repository contains a comprehensive Jupyter notebook that demonstrates the process of building a Named Entity Recognition (NER) system using Long Short-Term Memory (LSTM) networks. The project aims to identify and classify named entities such as people, locations, and organizations within text data, leveraging the power of LSTMs to understand and extract meaningful information from sequences.
 
 
-![alt text](https://github.com/BheZelmat/Named-Entity-Recognition-NER-Using-LSTM/blob/main/img.png?raw=true)
+![alt text](https://github.com/BheZelmat/Named-Entity-Recognition-NER-Using-LSTM/blob/main/img(5).png?raw=true)
 
 ## Overview
 The notebook provides a step-by-step guide on creating an NER system, starting from the basics of neural network design, through feature processing, to implementing LSTM layers for sequential data analysis. This project is designed for educational purposes, offering insights into the mechanisms of LSTMs and their applications in NER tasks.
